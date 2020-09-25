@@ -1,0 +1,60 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRlA1yq8bKZEpmoEUejAr2-S7mW6aXDPb-tKQ&usqp=CAU);
+  }
+  h1{
+    text-align: center;
+    font-size: 50px;
+    font-weight: 5px ;
+    color: white;
+  }
+  header {
+    position: sticky;
+    top: 0;
+    background-color: #2e55c12f;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  form{
+      color: white;
+  }
+  
+  ul {
+    display: flex;
+  }
+  
+  li {
+    list-style: none;
+    padding-right: 20px;
+    /* padding-top: 30px; */
+    font-size: 20px;
+    color: white;
+  }
+  
+  #logo {
+    padding: 10px;
+    
+  }
+  
+  #article-list{
+    background-color: #7e8b89;
+    margin: auto;
+    width: 60%;
+    padding: 20px;
+  }
+  
+  
+  
+  footer{
+    background-color: #2e55c12f;
+    color:whitesmoke;
+    height: 80px;
+    font-size: 20px;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  
